@@ -1,0 +1,26 @@
+C3PO 1977 humanoid M 11M Star Wars, 70, 1750, A, Anthony Daniels
+Unimate 1961 industrial R 100K GM, 1575, 1420, R
+Johnny5 1986 entertainment M 9M Short Circuit, 350, 1025, M
+Rosie 1962 fictional T 300K The Jetsons, 520, 2100, C
+Spot 2016 militarySecurity R 60K Boston Dynamics, 25, 840, R
+M3B9GUNTER 1965 fictional T 75K Lost In Space, 182.344, 1981.2, A, Bob May
+Robonaut 2011 aerospace R 14.5M NASA, 149.7, 1016, R
+Marvin 1978 fictional B 5K The Hitchhiker's Guide to the Galaxy, 81.6466, 1750, I
+Robby 1939 fictional M 1.9M Forbidden Planet, 80, 2130, A, Frankie Darro
+Myon 2015 entertainment P 500K My Square Lady, 40.3, 1400, R
+K9 1976 fictional T 1.5K Dr. Who, 39.9161, 711, M
+RDaneelOlivaw 1950 humanoid B 2.5K I,Robot, 151.953, 1850, I
+Gort 1951 fictional M 12.6K The Day the Earth Stood Still, 235.868, 2692.4, A, Lock Martin
+R2D2 1977 entertainment M 11M Star Wars, 225, 1219.2, M
+Opportunity 2004 aerospace R 400M NASA, 180, 1500, R
+BB8 2015 fictional 245M Star Wars The Force Awakens, 22.6796, 703, M
+AstroBoy 1952 humanoid B 298K Mighty Atom, 29.9, 1346.2, C
+Aibo 1999 consumer R 1.8K Sony, 2.2, 2930, R
+Kitt 1982 selfDrivingVehicles T 150K Knight Rider, 1438, 1262, M
+Marius 1920 fictional P 15K R.U.R., 97.5224, 1854.2, I
+WALL-E 2008 fictional M 180M WALL-E, 122.47, 1016, C
+Data 1987 humanoid T 1.3M Star Trek The Next Generation, 70, 1800, A, Brent Spiner
+Packbot 2002 militarySecurity R 150K iRobot, 23.9, 178, R
+Maria 1927 humanoid M 1.2M Metropolis, 64.4101, 1676.4, A, Brigitte Helm
+Elsie 1948 research R 28K Dr. William Grey Walter, 3.62874, 171.45, R
+Tessman 2008 entertainment P 750K Heddatron, 54.4311, 1524, R

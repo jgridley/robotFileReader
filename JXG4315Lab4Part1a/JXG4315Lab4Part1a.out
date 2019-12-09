@@ -1,0 +1,332 @@
+robotName[0] = C3PO
+robotYear[0] = 1977
+robotKind[0] = humanoid
+robotSource[0] = M
+robotCostValue[0] = $1.1E7
+robotSourceTitle[0] = Star Wars
+robotHeight[0] = 70.0
+robotWeight[0] = 1750.0
+robotImplemented[0] = A
+robotActor[0] = Anthony Daniels
+
+robotName[1] = Unimate
+robotYear[1] = 1961
+robotKind[1] = industrial
+robotSource[1] = R
+robotCostValue[1] = $100000.0
+robotSourceTitle[1] = GM
+robotHeight[1] = 1575.0
+robotWeight[1] = 1420.0
+robotImplemented[1] = R
+robotActor[1] = null
+
+robotName[2] = Johnny5
+robotYear[2] = 1986
+robotKind[2] = entertainment
+robotSource[2] = M
+robotCostValue[2] = $9000000.0
+robotSourceTitle[2] = Short Circuit
+robotHeight[2] = 350.0
+robotWeight[2] = 1025.0
+robotImplemented[2] = M
+robotActor[2] = null
+
+robotName[3] = Rosie
+robotYear[3] = 1962
+robotKind[3] = fictional
+robotSource[3] = T
+robotCostValue[3] = $300000.0
+robotSourceTitle[3] = The Jetsons
+robotHeight[3] = 520.0
+robotWeight[3] = 2100.0
+robotImplemented[3] = C
+robotActor[3] = null
+
+robotName[4] = Spot
+robotYear[4] = 2016
+robotKind[4] = militarySecurity
+robotSource[4] = R
+robotCostValue[4] = $60000.0
+robotSourceTitle[4] = Boston Dynamics
+robotHeight[4] = 25.0
+robotWeight[4] = 840.0
+robotImplemented[4] = R
+robotActor[4] = null
+
+robotName[5] = M3B9GUNTER
+robotYear[5] = 1965
+robotKind[5] = fictional
+robotSource[5] = T
+robotCostValue[5] = $75000.0
+robotSourceTitle[5] = Lost In Space
+robotHeight[5] = 182.344
+robotWeight[5] = 1981.2
+robotImplemented[5] = A
+robotActor[5] = Bob May
+
+robotName[6] = Robonaut
+robotYear[6] = 2011
+robotKind[6] = aerospace
+robotSource[6] = R
+robotCostValue[6] = $1.45E7
+robotSourceTitle[6] = NASA
+robotHeight[6] = 149.7
+robotWeight[6] = 1016.0
+robotImplemented[6] = R
+robotActor[6] = null
+
+robotName[7] = Marvin
+robotYear[7] = 1978
+robotKind[7] = fictional
+robotSource[7] = B
+robotCostValue[7] = $5000.0
+robotSourceTitle[7] = The Hitchhiker's Guide to the Galaxy
+robotHeight[7] = 81.6466
+robotWeight[7] = 1750.0
+robotImplemented[7] = I
+robotActor[7] = null
+
+robotName[8] = Robby
+robotYear[8] = 1939
+robotKind[8] = fictional
+robotSource[8] = M
+robotCostValue[8] = $1900000.0
+robotSourceTitle[8] = Forbidden Planet
+robotHeight[8] = 80.0
+robotWeight[8] = 2130.0
+robotImplemented[8] = A
+robotActor[8] = Frankie Darro
+
+robotName[9] = Myon
+robotYear[9] = 2015
+robotKind[9] = entertainment
+robotSource[9] = P
+robotCostValue[9] = $500000.0
+robotSourceTitle[9] = My Square Lady
+robotHeight[9] = 40.3
+robotWeight[9] = 1400.0
+robotImplemented[9] = R
+robotActor[9] = null
+
+robotName[10] = K9
+robotYear[10] = 1976
+robotKind[10] = fictional
+robotSource[10] = T
+robotCostValue[10] = $1500.0
+robotSourceTitle[10] = Dr. Who
+robotHeight[10] = 39.9161
+robotWeight[10] = 711.0
+robotImplemented[10] = M
+robotActor[10] = null
+
+robotName[11] = RDaneelOlivaw
+robotYear[11] = 1950
+robotKind[11] = humanoid
+robotSource[11] = B
+robotCostValue[11] = $2500.0
+robotSourceTitle[11] = I,Robot
+robotHeight[11] = 151.953
+robotWeight[11] = 1850.0
+robotImplemented[11] = I
+robotActor[11] = null
+
+robotName[12] = Gort
+robotYear[12] = 1951
+robotKind[12] = fictional
+robotSource[12] = M
+robotCostValue[12] = $12600.0
+robotSourceTitle[12] = The Day the Earth Stood Still
+robotHeight[12] = 235.868
+robotWeight[12] = 2692.4
+robotImplemented[12] = A
+robotActor[12] = Lock Martin
+
+robotName[13] = R2D2
+robotYear[13] = 1977
+robotKind[13] = entertainment
+robotSource[13] = M
+robotCostValue[13] = $1.1E7
+robotSourceTitle[13] = Star Wars
+robotHeight[13] = 225.0
+robotWeight[13] = 1219.2
+robotImplemented[13] = M
+robotActor[13] = null
+
+robotName[14] = Opportunity
+robotYear[14] = 2004
+robotKind[14] = aerospace
+robotSource[14] = R
+robotCostValue[14] = $4.0E8
+robotSourceTitle[14] = NASA
+robotHeight[14] = 180.0
+robotWeight[14] = 1500.0
+robotImplemented[14] = R
+robotActor[14] = null
+
+
+-- Source is not valid for BB8
+
+robotName[16] = AstroBoy
+robotYear[16] = 1952
+robotKind[16] = humanoid
+robotSource[16] = B
+robotCostValue[16] = $298000.0
+robotSourceTitle[16] = Mighty Atom
+robotHeight[16] = 29.9
+robotWeight[16] = 1346.2
+robotImplemented[16] = C
+robotActor[16] = null
+
+robotName[17] = Aibo
+robotYear[17] = 1999
+robotKind[17] = consumer
+robotSource[17] = R
+robotCostValue[17] = $1800.0
+robotSourceTitle[17] = Sony
+robotHeight[17] = 2.2
+robotWeight[17] = 2930.0
+robotImplemented[17] = R
+robotActor[17] = null
+
+robotName[18] = Kitt
+robotYear[18] = 1982
+robotKind[18] = selfDrivingVehicles
+robotSource[18] = T
+robotCostValue[18] = $150000.0
+robotSourceTitle[18] = Knight Rider
+robotHeight[18] = 1438.0
+robotWeight[18] = 1262.0
+robotImplemented[18] = M
+robotActor[18] = null
+
+robotName[19] = Marius
+robotYear[19] = 1920
+robotKind[19] = fictional
+robotSource[19] = P
+robotCostValue[19] = $15000.0
+robotSourceTitle[19] = R.U.R.
+robotHeight[19] = 97.5224
+robotWeight[19] = 1854.2
+robotImplemented[19] = I
+robotActor[19] = null
+
+robotName[20] = WALL-E
+robotYear[20] = 2008
+robotKind[20] = fictional
+robotSource[20] = M
+robotCostValue[20] = $1.8E8
+robotSourceTitle[20] = WALL-E
+robotHeight[20] = 122.47
+robotWeight[20] = 1016.0
+robotImplemented[20] = C
+robotActor[20] = null
+
+robotName[21] = Data
+robotYear[21] = 1987
+robotKind[21] = humanoid
+robotSource[21] = T
+robotCostValue[21] = $1300000.0
+robotSourceTitle[21] = Star Trek The Next Generation
+robotHeight[21] = 70.0
+robotWeight[21] = 1800.0
+robotImplemented[21] = A
+robotActor[21] = Brent Spiner
+
+robotName[22] = Packbot
+robotYear[22] = 2002
+robotKind[22] = militarySecurity
+robotSource[22] = R
+robotCostValue[22] = $150000.0
+robotSourceTitle[22] = iRobot
+robotHeight[22] = 23.9
+robotWeight[22] = 178.0
+robotImplemented[22] = R
+robotActor[22] = null
+
+robotName[23] = Maria
+robotYear[23] = 1927
+robotKind[23] = humanoid
+robotSource[23] = M
+robotCostValue[23] = $1200000.0
+robotSourceTitle[23] = Metropolis
+robotHeight[23] = 64.4101
+robotWeight[23] = 1676.4
+robotImplemented[23] = A
+robotActor[23] = Brigitte Helm
+
+robotName[24] = Elsie
+robotYear[24] = 1948
+robotKind[24] = research
+robotSource[24] = R
+robotCostValue[24] = $28000.0
+robotSourceTitle[24] = Dr. William Grey Walter
+robotHeight[24] = 3.62874
+robotWeight[24] = 171.45
+robotImplemented[24] = R
+robotActor[24] = null
+
+robotName[25] = Tessman
+robotYear[25] = 2008
+robotKind[25] = entertainment
+robotSource[25] = P
+robotCostValue[25] = $750000.0
+robotSourceTitle[25] = Heddatron
+robotHeight[25] = 54.4311
+robotWeight[25] = 1524.0
+robotImplemented[25] = R
+robotActor[25] = null
+
+Humanoid robot 1: C3PO debuted 1977 in the movie "Star Wars" at a cost of $1.1E70.
+Industrial robot 2: Unimate debuted 1961 in real life from GM at the cost of $100000.00.
+Entertainment robot 3: Johnny5 debuted 1986 in the movie "Short Circuit" at a cost of $9000000.00.
+Fictional robot 4: Rosie debuted 1962 in the TV show "The Jetsons" at a cost of $300000.00.
+MilitarySecurity robot 5: Spot debuted 2016 in real life from Boston Dynamics at the cost of $60000.00.
+Fictional robot 6: M3B9GUNTER debuted 1965 in the TV show "Lost In Space" at a cost of $75000.00.
+Aerospace robot 7: Robonaut debuted 2011 in real life from NASA at the cost of $1.45E70.
+Fictional robot 8: Marvin debuted 1978 in the book "The Hitchhiker's Guide to the Galaxy" at a cost of $5000.00.
+Fictional robot 9: Robby debuted 1939 in the movie "Forbidden Planet" at a cost of $1900000.00.
+Entertainment robot 10: Myon debuted 2015 in the play "My Square Lady" at a cost of $500000.00.
+Fictional robot 11: K9 debuted 1976 in the TV show "Dr. Who" at a cost of $1500.00.
+Humanoid robot 12: RDaneelOlivaw debuted 1950 in the book "I,Robot" at a cost of $2500.00.
+Fictional robot 13: Gort debuted 1951 in the movie "The Day the Earth Stood Still" at a cost of $12600.00.
+Entertainment robot 14: R2D2 debuted 1977 in the movie "Star Wars" at a cost of $1.1E70.
+Aerospace robot 15: Opportunity debuted 2004 in real life from NASA at the cost of $4.0E80.
+Robot data invalid for robot 16
+Humanoid robot 17: AstroBoy debuted 1952 in the book "Mighty Atom" at a cost of $298000.00.
+Consumer robot 18: Aibo debuted 1999 in real life from Sony at the cost of $1800.00.
+SelfDrivingVehicles robot 19: Kitt debuted 1982 in the TV show "Knight Rider" at a cost of $150000.00.
+Fictional robot 20: Marius debuted 1920 in the play "R.U.R." at a cost of $15000.00.
+Fictional robot 21: WALL-E debuted 2008 in the movie "WALL-E" at a cost of $1.8E80.
+Humanoid robot 22: Data debuted 1987 in the TV show "Star Trek The Next Generation" at a cost of $1300000.00.
+MilitarySecurity robot 23: Packbot debuted 2002 in real life from iRobot at the cost of $150000.00.
+Humanoid robot 24: Maria debuted 1927 in the movie "Metropolis" at a cost of $1200000.00.
+Research robot 25: Elsie debuted 1948 in real life from Dr. William Grey Walter at the cost of $28000.00.
+Entertainment robot 26: Tessman debuted 2008 in the play "Heddatron" at a cost of $750000.00.
+
+Table of Robot Info
+           NAME  YEAR        COST  SOURCE         CATEGORY  TITLE
+             K9  1976     1500.00  T             Fictional  Dr. Who                                 
+           Aibo  1999     1800.00  R              Consumer  Sony                                    
+  RDaneelOlivaw  1950     2500.00  B              Humanoid  I,Robot                                 
+         Marvin  1978     5000.00  B             Fictional  The Hitchhiker's Guide to the Galaxy    
+           Gort  1951    12600.00  M             Fictional  The Day the Earth Stood Still           
+         Marius  1920    15000.00  P             Fictional  R.U.R.                                  
+          Elsie  1948    28000.00  R              Research  Dr. William Grey Walter                 
+           Spot  2016    60000.00  R      MilitarySecurity  Boston Dynamics                         
+     M3B9GUNTER  1965    75000.00  T             Fictional  Lost In Space                           
+        Unimate  1961   100000.00  R            Industrial  GM                                      
+           Kitt  1982   150000.00  T   SelfDrivingVehicles  Knight Rider                            
+        Packbot  2002   150000.00  R      MilitarySecurity  iRobot                                  
+       AstroBoy  1952   298000.00  B              Humanoid  Mighty Atom                             
+          Rosie  1962   300000.00  T             Fictional  The Jetsons                             
+           Myon  2015   500000.00  P         Entertainment  My Square Lady                          
+        Tessman  2008   750000.00  P         Entertainment  Heddatron                               
+          Maria  1927  1200000.00  M              Humanoid  Metropolis                              
+           Data  1987  1300000.00  T              Humanoid  Star Trek The Next Generation           
+          Robby  1939  1900000.00  M             Fictional  Forbidden Planet                        
+        Johnny5  1986  9000000.00  M         Entertainment  Short Circuit                           
+           C3PO  1977      1.1E70  M              Humanoid  Star Wars                               
+           R2D2  1977      1.1E70  M         Entertainment  Star Wars                               
+       Robonaut  2011     1.45E70  R             Aerospace  NASA                                    
+         WALL-E  2008      1.8E80  M             Fictional  WALL-E                                  
+    Opportunity  2004      4.0E80  R             Aerospace  NASA                                    
